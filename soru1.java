@@ -5,9 +5,43 @@ import java.util.Scanner;
 public class soru1 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        int puan=0;
+        int puan = 0;
         System.out.println("sınav puanınızı giriniz : ");
-        
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+        System.out.println("sınav puanınızı giriniz : ");
+
         puan = scan.nextInt();
         scan.close();
         harfdeger(puan);
@@ -34,6 +68,6 @@ public class soru1 {
         if (a >= 0 && a < 29) {
             System.out.println("F");
         }
-        
+
     }
 }
