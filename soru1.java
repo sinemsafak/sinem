@@ -7,18 +7,7 @@ public class soru1 {
         Scanner scan = new Scanner(System.in);
         int puan=0;
         System.out.println("sınav puanınızı giriniz : ");
-        System.out.println("sınav puanınızı giriniz : ");
-        System.out.println("sınav puanınızı giriniz : ");
-        System.out.println("sınav puanınızı giriniz : ");
-        System.out.println("sınav puanınızı giriniz : ");
-        System.out.println("sınav puanınızı giriniz : ");
-        System.out.println("sınav puanınızı giriniz : ");
-        System.out.println("sınav puanınızı giriniz : ");
-        System.out.println("sınav puanınızı giriniz : ");
-        System.out.println("sınav puanınızı giriniz : ");
-        System.out.println("sınav puanınızı giriniz : ");
-        System.out.println("sınav puanınızı giriniz : ");
-        System.out.println("sınav puanınızı giriniz : ");
+        
         puan = scan.nextInt();
         scan.close();
         harfdeger(puan);
